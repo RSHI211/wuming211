@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Git 测试
-=======
-# wuming211
->>>>>>> d3f78394fa704c85dae2ce17c04938ff2044ad5f
+# Git 测试项目
+
+这是我的第一个 GitHub 仓库。
+
+仓库名：wuming211
